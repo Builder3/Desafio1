@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#valor1, #valor2 {
+    width: 80px;
+}
+
+#operador {
+    width: 80px;
+    border: 1px solid red;
+}
+
+button {
+    width: 100px;
+    height: 20px;
+    background-color: green;
+    color: #ffffff;
+    border: 1px solid green;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: #ff6600c0;
+}
+
+.resultado {
+    margin-top: 10px;
+}
